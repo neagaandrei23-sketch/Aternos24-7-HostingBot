@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AAAAA-8vBX.aternos.me:31698",
+    "ip": "AAAAA-8vBX.aternos.me",
     "port": 31698,
     "version": "",
     "try-creative": false
